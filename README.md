@@ -1,5 +1,5 @@
-### HI THERE ### 
-# I am Francisco Salazar - Big Data Enthusiast and Professional 📈
+### HI THERE &#128513; ### 
+# Francisco Salazar - Big Data Enthusiast and Professional 📈
 
 Welcome to my GitHub profile! I am Francisco, passionate about big data and currently a Master's student in Data Science and Business Analytics at the Complutense University of Madrid. With a strong background in luxury hospitality management and extensive experience in the real estate sector, I am now focusing my career towards data analysis and big data.
 
