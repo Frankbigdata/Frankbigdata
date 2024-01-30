@@ -22,4 +22,4 @@ Welcome to my GitHub profile! I am Francisco, passionate about big data and curr
 - Certifications in SQL (Hackerrank) and MySQL (Oracle)
 
 ## 🌍 Languages
-- Spanish (Native), English (Fluent), French (Fluent)
+- Spanish (Native), English (Native), French (Fluent)
