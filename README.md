@@ -1,24 +1,24 @@
 # Francisco Salazar - Big Data Enthusiast and Professional 📈
 
-¡Bienvenido a mi perfil de GitHub! Soy Francisco, un apasionado del big data y estudiante de la Maestría en Ciencia de Datos y Análisis de Negocios en la Universidad Complutense de Madrid. Con una sólida formación en gestión de hospitalidad de lujo y una amplia experiencia en el sector inmobiliario, ahora estoy enfocando mi carrera hacia el análisis de datos y el big data.
+Welcome to my GitHub profile! I am Francisco, passionate about big data and currently a Master's student in Data Science and Business Analytics at the Complutense University of Madrid. With a strong background in luxury hospitality management and extensive experience in the real estate sector, I am now focusing my career towards data analysis and big data.
 
-## 🎓 Educación
-- **Máster en Ciencia de Datos, Big Data y Análisis de Negocios**, Universidad Complutense de Madrid - GPA: 8.9
-- **Máster en Gestión de Hospitalidad de Lujo**, University of West London - GPA: 6.2
-- **Licenciatura en Administración y Dirección de Empresas**, Universidad de Murcia - GPA: 6
+## 🎓 Education
+- **Master's in Data Science, Big Data and Business Analytics**, Complutense University of Madrid - GPA: 8.9
+- **Master's in Luxury Hospitality Management**, University of West London - GPA: 6.2
+- **Bachelor's in Business Administration and Management**, University of Murcia - GPA: 6
 
-## 💼 Experiencia Laboral
-- **Analista de Datos (Estudiante)**, MYSQL, PYTHON, MONGODB, TABLEAU - Madrid
-- **Agente Inmobiliario y Gestor de Propiedades**, España y Reino Unido
-- **Experiencia en Hospitalidad**, en roles de gestión en el Reino Unido y Malta
+## 💼 Professional Experience
+- **Data Analyst (Student)**, MYSQL, PYTHON, MONGODB, TABLEAU - Madrid
+- **Real Estate Agent and Property Manager**, Spain and United Kingdom
+- **Experience in Hospitality**, in management roles in the United Kingdom and Malta
 
-## 🛠️ Habilidades Técnicas
-- Lenguajes de Programación: Python, SQL
-- Herramientas y Plataformas: MySQL, MongoDB, Oracle, Tableau, GitHub, GCP
-- Bibliotecas: Pandas, NumPy, Django
+## 🛠️ Technical Skills
+- Programming Languages: Python, SQL
+- Tools and Platforms: MySQL, MongoDB, Oracle, Tableau, GitHub, GCP
+- Libraries: Pandas, NumPy, Django
 
-## 📚 Certificaciones
-- Certificaciones en SQL (Hackerrank) y MySQL (Oracle)
+## 📚 Certifications
+- Certifications in SQL (Hackerrank) and MySQL (Oracle)
 
-## 🌍 Idiomas
-- Español (Nativo), Inglés (Nativo), Frances (Fluido)
+## 🌍 Languages
+- Spanish (Native), English (Fluent), French (Fluent)
