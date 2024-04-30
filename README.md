@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am Francisco, passionate about big data and curr
 
 ## 🎓 Education
 - **Master's in Data Science, Big Data and Business Analytics**, Complutense University of Madrid - GPA: 8.9
-- **Master's in Luxury Hospitality Management**, University of West London - GPA: 6.2
+- **Master's in Luxury Hospitality Management**, University of West London - GPA: 7.0
 - **Bachelor's in Business Administration and Management**, University of Murcia - GPA: 6
 
 ## 💼 Professional Experience
