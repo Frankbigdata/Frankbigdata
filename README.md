@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I am Francisco, passionate about big data and curr
 - Spanish (Native), English (Native), French (Fluent)
 
   Highlighted Projects
+  
 - Machine Learning Competition
 Participated in a data competition predicting the status of water pumps, using multiclass classification techniques and handling complex data sets.
 - Statistical Analysis for Hypertension Medication
