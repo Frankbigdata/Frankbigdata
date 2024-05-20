@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am Francisco, passionate about big data and curr
 
 ## 🛠️ Technical Skills
 - Programming Languages: Python, SQL
-- Tools and Platforms: MySQL, MongoDB, Oracle, Tableau, GitHub, GCP
+- Tools and Platforms: MySQL, MongoDB, Oracle, Tableau, GitHub, GCP, PowerBI, Azure, Databricks, Spark
 - Libraries: Pandas, NumPy, Django
 
 ## 📚 Certifications
