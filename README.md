@@ -1,41 +1,100 @@
-### HI THERE &#128513; ### 
-# Francisco Salazar - Big Data Enthusiast and Professional 📈
+# 👋 ¡Hola! Soy Francisco Salazar
 
-Welcome to my GitHub profile! I am Francisco, passionate about big data and currently a Master's student in Data Science and Business Analytics at the Complutense University of Madrid. With a strong background in luxury hospitality management and extensive experience in the real estate sector, I am now focusing my career towards data analysis and big data.
+## 🧠 Data Analyst | Business Analytics | Big Data Enthusiast
 
-## 🎓 Education
-- **Master's in Data Science, Big Data and Business Analytics**, Complutense University of Madrid - GPA: 8.9
-- **Master's in Luxury Hospitality Management**, University of West London - GPA: 7.0
-- **Bachelor's in Business Administration and Management**, University of Murcia - GPA: 6
+Bienvenido a mi perfil de GitHub. Soy **Francisco Salazar**, analista de datos con experiencia internacional y especializado en el uso de herramientas de análisis avanzado como **Python**, **SQL**, **Salesforce CRM Analytics**, **Tableau** y **Power BI**. Actualmente trabajo como Data Analyst en **Singular Bank**, y cuento con una sólida formación académica en ciencia de datos y business analytics.
 
-## 💼 Professional Experience
-- **Data Analyst (Student)**, MYSQL, PYTHON, MONGODB, TABLEAU - Madrid
-- **Real Estate Agent and Property Manager**, Spain and United Kingdom
-- **Experience in Hospitality**, in management roles in the United Kingdom and Malta
+---
 
-## 🛠️ Technical Skills
-- Programming Languages: Python, SQL
-- Tools and Platforms: MySQL, MongoDB, Oracle, Tableau, GitHub, GCP, PowerBI, Azure, Databricks, Spark
-- Libraries: Pandas, NumPy, Django
+## 🎓 Formación Académica
 
-## 📚 Certifications
-- Certifications in SQL (Hackerrank), IBM and MySQL (Oracle)
+- 📊 **Máster en Data Science & Business Analytics para Big Data**  
+  *Universidad Complutense de Madrid* — GPA: 8.9  
+  *(Octubre 2023 – Julio 2024)*
 
-## 🌍 Languages
-- Spanish (Native), English (Native), French (Fluent)
+- 🏨 **Máster en Gestión Hostelera de Lujo**  
+  *University of West London* — GPA: 7.0
 
-  Highlighted Projects
-  
-- Machine Learning Competition
-Participated in a data competition predicting the status of water pumps, using multiclass classification techniques and handling complex data sets.
-- Statistical Analysis for Hypertension Medication
-Detailed analysis of the efficacy of an innovative medication, using advanced statistical techniques to assess its impact on different age groups.
-Business Intelligence with Tableau
-Developed visualizations and dashboards to analyze financing operations and loans, providing critical insights for decision-making.
-- SQL Database Management
-Implemented and managed SQL databases for financial operations analysis, optimizing queries for relevant data extraction.
-- Python Programming
-Developed an interactive Python game, demonstrating programming skills and applied logic.
-- Advanced Data Visualization
-Created interactive and narrative data visualizations to communicate complex analysis results to non-technical stakeholders.
+- 🧾 **Diplomatura en Ciencias Empresariales**  
+  *Universidad de Murcia*
 
+---
+
+## 💼 Experiencia Profesional
+
+**Data Analyst – Singular Bank** *(Febrero 2025 – Actualidad)*  
+- Gestión y análisis de datos financieros con SQL Server.  
+- Volcado e integración de datos en Salesforce.  
+- Creación de informes e identificación de tendencias para la toma de decisiones.  
+- Validación y mantenimiento de la calidad de datos.
+
+**Data Analyst – Devoteam** *(Junio 2024 – Febrero 2025)*  
+- Implementación de soluciones de BI para clientes del sector consultoría.  
+- Extracción y tratamiento de datos.  
+- Presentación de recomendaciones a stakeholders.
+
+**Experiencia previa en sectores de Hostelería de Lujo e Inmobiliario**  
+- Más de 12 años en hoteles 4 y 5 estrellas.  
+- 4 años en empresas líderes del sector inmobiliario (Foxtons, Dexters – Londres).
+
+---
+
+## 🛠️ Stack Tecnológico
+
+- **Lenguajes**: Python, SQL
+- **Bases de Datos**: MySQL, MongoDB, SQL Server, Oracle
+- **BI y Visualización**: Tableau, Power BI, CRM Analytics (Salesforce)
+- **Cloud & Otros**: GCP, Azure, Databricks, Spark
+- **Librerías**: Pandas, NumPy, Matplotlib, Seaborn, Django
+
+---
+
+## 📈 Proyectos Destacados
+
+- 🔍 **Clasificación de estado de bombas de agua (ML)**  
+  Clasificación multiclase en una competición de Machine Learning con datos complejos.
+
+- 📊 **Análisis estadístico sobre hipertensión**  
+  Evaluación de un medicamento en diferentes grupos etarios con técnicas estadísticas avanzadas.
+
+- 📉 **Business Intelligence con Tableau**  
+  Dashboards interactivos sobre operaciones financieras y préstamos.
+
+- 🗃️ **Gestión de bases de datos SQL**  
+  Optimización de consultas y análisis de operaciones bancarias.
+
+- 🐍 **Python Game**  
+  Desarrollo de un juego interactivo con lógica programada.
+
+- 📌 **Narrativas Visuales**  
+  Creación de visualizaciones avanzadas orientadas a stakeholders no técnicos.
+
+---
+
+## 📚 Certificaciones
+
+- SQL – HackerRank  
+- SQL – Oracle Academy  
+- IBM Data Analyst Professional Certificate  
+
+---
+
+## 🌍 Idiomas
+
+- Español (Nativo)  
+- Inglés (Bilingüe)  
+- Francés (Intermedio)
+
+---
+
+## 🤝 Conectemos
+
+📫 pacobigdata2023@gmail.com  
+📍 Madrid, España (disponibilidad geográfica)  
+🔗 [LinkedIn](https://www.linkedin.com/in/francisco-jose-salazar-arnaldos/)  
+🔗 [GitHub](https://github.com/Frankbigdata)
+
+---
+
+> “Los datos no son solo números, son decisiones inteligentes esperando a ser descubiertas.”  
+> — Francisco Salazar
