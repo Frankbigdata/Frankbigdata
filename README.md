@@ -22,7 +22,7 @@ Bienvenido a mi perfil de GitHub. Soy **Francisco Salazar**, analista de datos c
 
 ## 💼 Experiencia Profesional
 
-**Data Analyst – Singular Bank** *(Febrero 2025 – Actualidad)*  
+**Data Analyst – Singular Bank** *(Febrero 2025 – Abril 2025)*  
 - Gestión y análisis de datos financieros con SQL Server.  
 - Volcado e integración de datos en Salesforce.  
 - Creación de informes e identificación de tendencias para la toma de decisiones.  
