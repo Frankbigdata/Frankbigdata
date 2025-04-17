@@ -37,6 +37,11 @@ Bienvenido a mi perfil de GitHub. Soy **Francisco Salazar**, analista de datos c
 - Más de 12 años en hoteles 4 y 5 estrellas.  
 - 4 años en empresas líderes del sector inmobiliario (Foxtons, Dexters – Londres).
 
+**Experiencia previa en España** *(2008 – 2011)*  
+- 🏗️ **Administrativo de obra** durante 2 años, gestionando documentación técnica, facturación y coordinación con proveedores.  
+- 🚛 **Gestor del tráfico de transportes** durante 1 año, planificando rutas logísticas y optimizando recursos en tiempo real.
+
+
 ---
 
 ## 🛠️ Stack Tecnológico
