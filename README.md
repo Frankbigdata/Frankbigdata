@@ -33,7 +33,7 @@ Mi experiencia internacional en el Reino Unido me ha permitido desarrollar una v
 
 ## 🌐 Contacto
 📩 **Email:** pacobigdata2023@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/frankbigdata](https://linkedin.com/in/frankbigdata)  
+🔗 **LinkedIn:** www.linkedin.com/in/francisco-jose-salazar-arnaldos
 💻 **GitHub:** [github.com/Frankbigdata](https://github.com/Frankbigdata)  
 
 ---
